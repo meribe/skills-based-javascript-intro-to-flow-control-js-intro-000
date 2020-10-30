@@ -24,7 +24,7 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
-  if age ? 
+  if age ?
 
 }
 
@@ -36,7 +36,7 @@ function switchAge(age) {
       break;
     default:
     console.log("You have an age");
-      
+
   }
 
 }
